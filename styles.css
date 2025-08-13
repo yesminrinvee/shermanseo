@@ -171,7 +171,7 @@ h6 {
 .feature-list li {
   padding: 0.75rem 0;
   border-bottom: 1px solid #f3f4f6;
-  display: flex;
+  /* display: flex; */
   align-items: flex-start;
 }
 
