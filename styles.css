@@ -8,9 +8,7 @@
   --color-border-light: #e5e7eb;
 }
 body {
-  /* font-family: 'Poppins', sans-serif; */
-  /* background-color: var(--color-text-white);
-            color: var(--color-text-gray); */
+   
 
   font-family: "Montserrat", sans-serif;
   background-color: var(--color-text-white);
